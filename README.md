@@ -141,19 +141,8 @@ clarifymed/
 
 - Start: 2025-04-12 04:58:45 UTC
 - Deadline: 2025-04-13 07:00:00 UTC
-- Remaining: ~26 hours
 
-## 🆘 Need Help?
 
-- **Technical Issues:** Tag @kay-rey in GitHub issues
-- **API Access:** Contact team lead for credentials
-- **Documentation:** Check [Next.js Docs](https://nextjs.org/docs)
-- **Team Chat:** Join our Discord/Slack channel
-
-## 👥 Team
-
-- Project Lead: [@kay-rey](https://github.com/kay-rey)
-- [Add team members here]
 
 ## 🔧 Development Guidelines
 
